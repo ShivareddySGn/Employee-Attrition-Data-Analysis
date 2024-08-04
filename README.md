@@ -1,6 +1,7 @@
 # HR Analytics Dashboard
 ## Overview
 ### The HR Analytics Dashboard provides an interactive visualization of key HR metrics, helping organizations understand employee attrition, satisfaction, and demographics. This dashboard is built using Tableau and includes several key metrics and visualizations, such as attrition rates, employee counts, job satisfaction ratings, and demographic distributions.
+![HR Analytics Dashboard](Dashboard.png)
 
 ## Dashboard Elements
 ### Employee Count: Total number of employees in the organization.
